@@ -49,11 +49,13 @@
       <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Paramol">
-      <HintPath>..\..\..\GitHub\Projac\src\Recipes\bin\Debug\Paramol.dll</HintPath>
+    <Reference Include="Paramol, Version=0.0.129.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Paramol.0.0.129\lib\net45\Paramol.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="Projac">
-      <HintPath>..\..\..\GitHub\Projac\src\Recipes\bin\Debug\Projac.dll</HintPath>
+    <Reference Include="Projac, Version=0.0.129.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Projac.0.0.129\lib\net45\Projac.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="ServiceStack.Text, Version=4.0.44.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\ServiceStack.Text.4.0.44\lib\net40\ServiceStack.Text.dll</HintPath>
